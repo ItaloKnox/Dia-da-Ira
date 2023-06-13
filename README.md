@@ -44,7 +44,7 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 
 - Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
 - Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
--No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
+- No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
 - Além disso, o vídeo de abertura permanece também sem tradução, pois não é possível inseri-lo sem abrir o data1.dat
 
 Meu objetivo é fornecer apenas um script traduzido, não disponibilizar o jogo inteiro para download. Ao abrir os demais .dat, o patch ficaria com cerca de 7GB e mais de 100 mil arquivos.
