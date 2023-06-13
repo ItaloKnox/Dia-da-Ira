@@ -47,6 +47,7 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 - No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
 - Além disso, o vídeo de abertura permanece também sem tradução, pois não é possível inseri-lo sem abrir o data1.dat
 - Visando manter a estética original do jogo, a tradução sempre deixa um espaço em branco no início dos parágragos, bem como ocorre no japonês e foi removido na suposta tradução.
+- Ainda visando a fidelidade com o original, a tradução mantém busca preservar a estética da pontuação original.
 
 Meu objetivo é fornecer apenas um script traduzido, não disponibilizar o jogo inteiro para download. Ao abrir os demais .dat, o patch ficaria com cerca de 7GB e mais de 100 mil arquivos.
 Para compensar a falta do vídeo traduzido, será disponibilizado um vídeo à parte com a tradução. Se esta tradução for finalizada, eu farei um patch completo abrindo o .dat. 
