@@ -17,10 +17,10 @@ Se o ícone do jogo mudar/o cursor de espada aparecer/a música do menu mudar, i
 
 # Explicação de como o Patch funciona.
 
-Dentro do arquivo .ini estão instruções para a restauração da música e cor.
-Dentro da pasta "data" estão todos os arquivos do data3.dat que você deletou, junto ao arquivo do cursor e o script traduzido.
+Dentro do arquivo .ini estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
+Dentro da pasta "data" estão todos os arquivos do data3.dat, que você precisa deletar, junto ao arquivo do cursor e o script traduzido.
 
-É necessário ter o conteúdo do data3.dat descompilado na pasta "data" pois não há como inserir coisas dentro dele, mas por sorte a engine reconhece os arquivos mesmo fora dele, desde que eles existam na pasta "data" e o ".dat" correspondente tenha sido deletado.
+É necessário ter o conteúdo do data3.dat descompilado na pasta "data" pois não há como inserir coisas dentro dele, mas por sorte a engine reconhece os arquivos fora dele, desde que eles existam na pasta "data" e o ".dat" correspondente tenha sido deletado.
 
 
 # Tradução
