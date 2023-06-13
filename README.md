@@ -7,11 +7,15 @@ Além de adicionar a tradução, esta patch restaura o cursor original do jogo, 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019. Essas traduções podem ser encontradas no site da Knox.
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
-# Instalação
+# Instalação e Explicação de como o Patch funciona.
 
 Adquira a versão Steam do jogo, oficialmente ou não.
 Baixe o patch, que consiste num arquivo "malie.ini" e uma pasta "data".
 Coloque ambos na pasta do jogo e exclua o arquivo data3.dat.
+
+Se o único do jogo mudar/o cursor de espada aparecer/a música do menu mudar, isso significa que está funcionando.
+
+Explicando o patch:
 
 Dentro do arquivo .ini estão instruções para a restauração da música e cor.
 Dentro da pasta "data" estão todos os arquivos do data3.dat que você deletou, junto ao arquivo do cursor e o script traduzido.
