@@ -9,12 +9,13 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Instalação e Explicação de como o Patch funciona.
 
-Adquira a versão Steam do jogo, oficialmente ou não.
-Baixe o patch, que consiste num arquivo "malie.ini" e uma pasta "data".
-Coloque ambos na pasta do jogo e exclua o arquivo data3.dat.
+- Adquira a versão Steam do jogo, oficialmente ou não.
+- Baixe o patch, que consiste num arquivo "malie.ini" e uma pasta "data".
+- Coloque ambos na pasta do jogo e exclua o arquivo data3.dat.
+
 Se o ícone do jogo mudar/o cursor de espada aparecer/a música do menu mudar, isso significa que está funcionando.
 
-Explicando o patch:
+# Explicação de como o Patch funciona.
 
 Dentro do arquivo .ini estão instruções para a restauração da música e cor.
 Dentro da pasta "data" estão todos os arquivos do data3.dat que você deletou, junto ao arquivo do cursor e o script traduzido.
