@@ -12,8 +12,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 Adquira a versão Steam do jogo, oficialmente ou não.
 Baixe o patch, que consiste num arquivo "malie.ini" e uma pasta "data".
 Coloque ambos na pasta do jogo e exclua o arquivo data3.dat.
-
-Se o único do jogo mudar/o cursor de espada aparecer/a música do menu mudar, isso significa que está funcionando.
+Se o ícone do jogo mudar/o cursor de espada aparecer/a música do menu mudar, isso significa que está funcionando.
 
 Explicando o patch:
 
