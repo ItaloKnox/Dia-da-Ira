@@ -32,20 +32,21 @@ Para compilar, utilize novamente o programa StringTool.exe.
 É importante que tanto o exec.dat quanto o exec.txt tenham o mesmo número de linhas e estejam na mesma pasta.
 Caso o número de linhas não seja igual, o programa não irá compilar.
 
-O script de Dies Irae possuem uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
+O script de Dies Irae possuí uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
 Por causa disso, devido as diferenças gramaticais é muito difícil utilizar o script japonês e manter o exato número de linhas, assim sendo é recomendado o uso do script em inglês.
-Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos, tampouco pode adicionar novas itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
+
+Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos, tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
 O script em inglês possuem um total de 98463 linhas, enquanto o script japonês possuí 118965 linhas.
 
 Para traduzir, é recomendado utilizar o japonês como base e depois copiar as linhas para a versão em inglês, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic, com toda a narração de 1º pessoa reescrita em 3º pessoa, com exceção do protagonista.
 
 # Observações
 
-Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
-Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
-No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
+- Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
+- Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
+-No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
+- Além disso, o vídeo de abertura permanece também sem tradução, pois não é possível inseri-lo sem abrir o data1.dat
 
-Além disso, o vídeo de abertura permanece também sem tradução, pois não é possível inseri-lo sem abrir o data1.dat
 Meu objetivo é fornecer apenas um script traduzido, não disponibilizar o jogo inteiro para download. Ao abrir os demais .dat, o patch ficaria com cerca de 7GB e mais de 100 mil arquivos.
 Para compensar a falta do vídeo traduzido, será disponibilizado um vídeo à parte com a tradução. Se esta tradução for finalizada, eu farei um patch completo abrindo o .dat. 
 
