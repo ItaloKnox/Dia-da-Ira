@@ -16,7 +16,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 (Esse processo é necessário para que não seja preciso literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
 
-- Agora baixe o patch disponível futuramente aqui no Github.
+- Agora baixe o patch disponível aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os já existentes.
 
