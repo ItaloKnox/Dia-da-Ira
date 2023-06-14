@@ -18,7 +18,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 - Agora baixe o patch disponível futuramente aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
-- Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data". substituindo os já existentes.
+- Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os já existentes.
 
 # Explicação de como o Patch funciona.
 
