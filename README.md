@@ -8,18 +8,18 @@ Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os 
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Instalação
-- Caso tenha adquirido o jogo legalmente, abra-o uma primeira vez. Ele exige conexão com a internet na primeira execução.
+- Caso tenha adquirido o jogo legalmente na Steam, abra-o uma primeira vez. Ele exige conexão com a internet na primeira execução.
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data3.dat" na versão Steam. Na versão japonesa, apenas o "data1.dat".
 - Você obterá uma pasta "data" com várias subpastas.
-- Delete "data1.dat" e "data2.dat" se estiver com a versão Steam. Delete apenas "data1.dat" se estiver com a versão japonesa.
+- Delete "data1.dat" e "data3.dat" se estiver com a versão Steam. Delete apenas "data1.dat" se estiver com a versão japonesa.
 - Se abrir normalmente, esta etapa foi um sucesso.
 
 (Esse processo é necessário para que não seja preciso literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
 
 - Agora baixe o patch disponível aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
-- Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os já existentes.
+- Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os arquivos já existentes.
 
 # Explicação de como o Patch funciona.
 
@@ -54,3 +54,4 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 - Outro problema desta versão é que o texto é justificado à esquerda, o que gera um kerning ruim e atrapalha a leitura.
 Infelizmente não há solução para isso.
 - Entre a versão Steam e a versão japonesa de Aniversário, recomendo a segunda pois ela permite alterar entre 16:9 e 4:3.
+- Extraindo o conteúdo da versão de Switch, aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
