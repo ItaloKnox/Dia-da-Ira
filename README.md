@@ -1,18 +1,19 @@
 # Dia-da-Ira
 
-Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, feito para a versão Steam.
+Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão Steam e a versão japonesa em HD (Anniversary)
 
 Além de adicionar a tradução, esta patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019. Essas traduções podem ser encontradas no site da Knox.
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
-# Instalação e Explicação de como o Patch funciona.
+# Instalação
 - Caso tenha adquirido o jogo legalmente, abra-o uma primeira vez. Ele exige conexão com a internet na primeira execução.
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
-- Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data2.dat".
-- Deixe todo o conteúdo em uma única pasta chamada "data".
-- Delete "data1.dat" e "data2.dat" e abra o jogo. Se abrir normalmente, esta etapa foi um sucesso.
+- Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data3.dat" na versão Steam. Na versão japonesa, apenas o "data1.dat".
+- Você obterá uma pasta "data" com várias subpastas.
+- Delete "data1.dat" e "data2.dat" se estiver com a versão Steam. Delete apenas "data1.dat" se estiver com a versão japonesa.
+- Se abrir normalmente, esta etapa foi um sucesso.
 
 (Esse processo é necessário para que não seja preciso literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
 
