@@ -13,7 +13,9 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data2.dat".
 - Deixe todo o conteúdo em uma única pasta chamada "data".
 - Delete "data1.dat" e "data2.dat" e abra o jogo. Se abrir normalmente, esta etapa foi um sucesso.
+
 (Esse processo é necessário para que não seja necessário literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
+
 - Agora baixe o patch disponível futuramente aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data". substituindo os já existentes.
