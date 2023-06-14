@@ -23,9 +23,8 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 # Explicação de como o Patch funciona.
 
 Dentro do arquivo .ini estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
-Dentro da pasta "data" estão todos os arquivos do data3.dat, que você precisa deletar, junto ao arquivo do cursor e o script traduzido.
-
-É necessário ter o conteúdo do data3.dat descompilado na pasta "data" pois não há como inserir coisas dentro dele, mas por sorte a engine reconhece os arquivos fora dele, desde que eles existam na pasta "data" e o ".dat" correspondente tenha sido deletado.
+Dentro da pasta "data" estão todos os arquivos dos data1.dat e data3.dat que você extraiu. Nela você colocará os arquivos do patch também.
+A decompilação dos data.dat se faz necessária pois não há como inserir os arquivos da tradução dentro deles, por isso seu conteúdo precisa estar aberto.
 
 
 # Tradução
