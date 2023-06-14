@@ -8,12 +8,15 @@ Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os 
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Instalação e Explicação de como o Patch funciona.
-
-- Adquira a versão Steam do jogo, oficialmente ou não.
-- Baixe o patch, que consiste num arquivo "malie.ini" e uma pasta "data".
-- Coloque ambos na pasta do jogo e exclua o arquivo data3.dat.
-
-Se o ícone do jogo mudar/o cursor de espada aparecer/a música do menu mudar, isso significa que está funcionando.
+- Caso tenha adquirido o jogo legalmente, abra-o uma primeira vez. Ele exige conexão com a internet na primeira execução.
+- Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
+- Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data2.dat".
+- Deixe todo o conteúdo em uma única pasta chamada "data".
+- Delete "data1.dat" e "data2.dat" e abra o jogo. Se abrir normalmente, esta etapa foi um sucesso.
+(Esse processo é necessário para que não seja necessário literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
+- Agora baixe o patch disponível futuramente aqui no Github.
+- Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
+- Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data". substituindo os já existentes.
 
 # Explicação de como o Patch funciona.
 
@@ -45,9 +48,12 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 - Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
 - Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
 - No menu de volume das vozes, os nomes aparecem em japonês para remover os nomes errôneos do inglês. Infelizmente não é possível fazer o mesmo em todas as imagens porque isso me obrigaria a abrir todos os .dat.
+<<<<<<< Updated upstream
 - Além disso, o vídeo de abertura permanece também sem tradução, pois não é possível inseri-lo sem abrir o data1.dat
 - Visando manter a estética original do jogo, a tradução sempre deixa um espaço em branco no início dos parágragos, bem como ocorre no japonês e foi removido na suposta tradução.
 - Ainda visando a fidelidade com o original, a tradução mantém busca preservar a estética da pontuação original.
+=======
+>>>>>>> Stashed changes
 
 Meu objetivo é fornecer apenas um script traduzido, não disponibilizar o jogo inteiro para download. Ao abrir os demais .dat, o patch ficaria com cerca de 7GB e mais de 100 mil arquivos.
 Para compensar a falta do vídeo traduzido, será disponibilizado um vídeo à parte com a tradução. Se esta tradução for finalizada, eu farei um patch completo abrindo o .dat. 
