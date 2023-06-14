@@ -53,3 +53,4 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 - Ainda visando a fidelidade com o original, a tradução mantém busca preservar a estética da pontuação original.
 - Outro problema desta versão é que o texto é justificado à esquerda, o que gera um kerning ruim e atrapalha a leitura.
 Infelizmente não há solução para isso.
+- Entre a versão Steam e a versão japonesa de Aniversário, recomendo a segunda pois ela permite alterar entre 16:9 e 4:3.
