@@ -2,7 +2,7 @@
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão Steam e a versão japonesa em HD (Anniversary)
 
-Além de adicionar a tradução, esta patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido.
+Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019. Essas traduções podem ser encontradas no site da Knox.
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
@@ -41,7 +41,7 @@ O script de Dies Irae possuí uma peculiaridade: cada palavra em itálico ou sob
 Por causa disso, devido as diferenças gramaticais é muito difícil utilizar o script japonês e manter o exato número de linhas, assim sendo é recomendado o uso do script em inglês.
 
 Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos, tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
-O script em inglês possuí um total de 98463 linhas, enquanto o script japonês possuí 118965 linhas.
+O script em inglês possuí um total de 98463 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são aproximadamente 59818 linhas de diálogo.
 
 Para traduzir, é recomendado utilizar o japonês como base e depois copiar as linhas para a versão em inglês, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic, com toda a narração de 1º pessoa reescrita em 3º pessoa, com exceção do protagonista.
 
