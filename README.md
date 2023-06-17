@@ -41,7 +41,7 @@ O script de Dies Irae possuí uma peculiaridade: cada palavra em itálico ou sob
 Por causa disso, devido as diferenças gramaticais é muito difícil utilizar o script japonês e manter o exato número de linhas, assim sendo é recomendado o uso do script em inglês.
 
 Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos, tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
-O script em inglês possuí um total de 98463 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são aproximadamente 59818 linhas de diálogo.
+O script em inglês possuí um total de 98463 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são aproximadamente 60000 linhas de texto.
 
 Para traduzir, é recomendado utilizar o japonês como base e depois copiar as linhas para a versão em inglês, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic, com toda a narração de 1º pessoa reescrita em 3º pessoa, com exceção do protagonista.
 
@@ -55,3 +55,4 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 Infelizmente não há solução para isso.
 - Entre a versão Steam e a versão japonesa de Aniversário, recomendo a segunda pois ela permite alterar entre 16:9 e 4:3.
 - Extraindo o conteúdo da versão de Switch, aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
+- Possivelmente por questões de incompetência, algumas poucas linhas do japonês não existem na suposta tradução em inglês. Restaurá-las é impossível na maioria das vezes pois implicaria em adicionar novas linhas no script, mas fazendo isso a compilação quebra.
