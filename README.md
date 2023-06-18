@@ -1,6 +1,6 @@
 # Dia-da-Ira
 
-Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão Steam e a versão japonesa em HD (Anniversary)
+Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão Steam/DX package e a versão japonesa em HD -Animation Anniversary-.
 
 Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original do capítulo VI e os nomes oficiais que aparecem entre os capítulos.
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
