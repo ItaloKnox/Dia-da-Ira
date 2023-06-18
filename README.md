@@ -20,7 +20,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Agora baixe o patch disponível aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os arquivos já existentes.
-
+- Na pasta data/picture/event/dead, delete os .dzi e substitua pelos .png
 # Explicação de como o Patch funciona.
 
 Dentro do arquivo .ini estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
