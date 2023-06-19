@@ -5,7 +5,7 @@ Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes
 Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original do capítulo VI e os nomes oficiais que aparecem entre os capítulos.
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
-Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019. Essas traduções podem ser encontradas no site da Knox.
+Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019.
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Instalação
