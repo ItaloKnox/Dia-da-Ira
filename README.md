@@ -50,7 +50,6 @@ Para traduzir, é recomendado utilizar o japonês como base e depois copiar as l
 
 - Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
 - Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
-- Visando manter a estética original do jogo, a tradução sempre deixa um espaço em branco no início dos parágrafos, bem como ocorre no japonês e foi removido na suposta tradução.
 - Outro problema desta versão é que o texto é justificado, o que gera um kerning ruim e atrapalha a leitura.
 Infelizmente não há solução para isso.
 - Entre a versão Steam e a versão japonesa de Aniversário, recomendo a segunda pois ela permite alterar entre 16:9 e 4:3.
