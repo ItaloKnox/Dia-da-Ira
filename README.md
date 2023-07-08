@@ -9,7 +9,6 @@ Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os 
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Instalação
-- Caso tenha adquirido o jogo legalmente na Steam, abra-o uma primeira vez. Ele exige conexão com a internet na primeira execução.
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data3.dat" na versão Steam. Na versão japonesa, apenas o "data1.dat".
 - Você obterá uma pasta "data" com várias subpastas.
