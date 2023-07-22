@@ -9,14 +9,16 @@ Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os 
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Progresso
+- Abertura - 1/1 legenda
+- Prólogo - 1/1 capítulo
+- Rota comum - 6/6 capítulos
+- Rota da Kasumi - 0/7 capítulos
+- Rota da Kei - 0/7 capítulos
+- Rota da Marie - 0/7 capítulos
+- Rota da Rea - 2/7 capítulos
+- Other Story - 3/5  capítulos
 
-Prólogo - 100%
-Rota comum - 5/6 capítulos
-Rota da Kasumi - 0/7 capítulos 0%
-Rota da Kei - 0/7 capítulos 0%
-Rota da Mari - 0/7 capítulos 0%
-Rota da Rea - 2/7 capítulos
-Other Story - 3/5  capítulos
+??????/98465 linhas
 
 # Instalação
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
