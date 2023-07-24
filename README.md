@@ -9,14 +9,14 @@ Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os 
 Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 
 # Progresso
-- Abertura - 1/1 legenda
+- Introdução - 1/1 legenda
 - Prólogo - 1/1 capítulo
 - Rota comum - 6/6 capítulos
 - Rota da Kasumi - 0/7 capítulos
 - Rota da Kei - 0/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 2/7 capítulos
-- Other Story - 3/5  capítulos
+- Other Story - 2/5  capítulos
 
 ??????/98465 linhas
 
