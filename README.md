@@ -16,7 +16,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Rota da Kei - 0/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 2/7 capítulos
-- Other Story - 2/5  capítulos
+- Other Story - 3/5  capítulos
 
 ??????/98465 linhas
 
