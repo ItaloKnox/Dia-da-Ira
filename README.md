@@ -53,7 +53,7 @@ O script de Dies Irae possuí uma peculiaridade: cada palavra em itálico ou sob
 Por causa disso, devido as diferenças gramaticais é muito difícil utilizar o script japonês e manter o exato número de linhas, assim sendo é recomendado o uso do script em inglês.
 
 Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos(embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
-O script em inglês possuí um total de 98465 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são aproximadamente 60000 linhas de texto (53851 linhas únicas).
+O script em inglês possuí um total de 98465 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são 59812 linhas de texto (53851 linhas únicas).
 
 Para traduzir, é recomendado utilizar o japonês como base e depois copiar as linhas para a versão em inglês, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic (especialmente as partes traduzidas pelo Steiner, vulgo Ludo - Rota da Marie e Other Story), com toda a narração de 1º pessoa reescrita em 3º pessoa, com exceção do protagonista. Muitas linhas ignorando parte do japonês ou acrescentando frases que não existem.
 
