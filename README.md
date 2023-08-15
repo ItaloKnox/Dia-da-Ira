@@ -2,7 +2,7 @@
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão Steam/DX package e a versão japonesa em HD -Animation Anniversary-.
 
-Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original do capítulo VI e os nomes oficiais que aparecem entre os capítulos.
+Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original dos capítulos III e VI, nomes oficiais que aparecem entre os capítulos e 4 arquivos de voz faltantes por incompetência da versão inglesa.
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019.
@@ -18,8 +18,6 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Rota da Rea - 2/7 capítulos
 - Other Story - 3/5  capítulos
 
-??????/98465 linhas
-
 # Instalação
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data3.dat" na versão Steam. Na versão japonesa, apenas o "data1.dat".
@@ -32,7 +30,8 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Agora baixe o patch disponível aqui no Github.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os arquivos já existentes.
-- Na pasta data/picture/event/dead, delete os .dzi e substitua pelos .png
+- Na pasta data/picture/event/dead, delete os .dzi e substitua pelos .png.
+- Coloque os quatro arquivos de áudio na pasta equivalente.
 # Explicação de como o Patch funciona.
 
 Dentro do arquivo .ini estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
