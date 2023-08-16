@@ -48,20 +48,19 @@ Para compilar, utilize novamente o programa StringTool.exe.
 É importante que tanto o exec.dat quanto o exec.txt tenham o mesmo número de linhas e estejam na mesma pasta.
 Caso o número de linhas não seja igual, o programa não irá compilar.
 
-O script de Dies Irae possuí uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
-Por causa disso, devido as diferenças gramaticais é muito difícil utilizar o script japonês e manter o exato número de linhas, assim sendo é recomendado o uso do script em inglês.
+O script de Dies Irae, da forma como é extraído pelo StringTool, possuí uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
+Devido a diferença no número de linhas, é mais cômodo o uso do script em inglês como base.
 
-Devido a limitação do número de linhas, você não pode remover itálicos e sobrescritos(embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
+Também por causa dessa limitação do número de linhas, você não pode remover itálicos e sobrescritos (embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
 O script em inglês possuí um total de 98465 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são 59812 linhas de texto (53851 linhas únicas).
 
-Para traduzir, é recomendado utilizar o japonês como base e depois copiar as linhas para a versão em inglês, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic (especialmente as partes traduzidas pelo Steiner, vulgo Ludo - Rota da Marie e Other Story), com toda a narração de 1º pessoa reescrita em 3º pessoa, com exceção do protagonista. Muitas linhas ignorando parte do japonês ou acrescentando frases que não existem.
+Para traduzir, é recomendado utilizar o japonês como base, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic - muitas linhas ignorando parte do japonês ou acrescentando frases que simplesmente não existem, repleto de palavrões incondizentes, engrandecimento da narração e uso de expressões e figuras de linguagem que não combinam com a personalidade dos personagens. Inconsistências na alternância de narração de 1º e 3º pessoa e diversas adaptações idiotas, incluindo linhas que parecem terem sido escritas por crianças de 12 anos. Não há preocupação com uma fidelidade 1:1 para com o texto japonês (seja na pontuação ou estrutura das frases); muitas liberdades "artísticas" que não possuem espaço no campo da tradução profissional.
 
 # Observações
 
 - Até o momento, não é possível traduzir as escolhas nem mudar o nome dos personagens da caixa de texto. Não faço ideia de como fazer isso.
 - Os nomes na caixa e na tradução podem variar, pois a tradução segue a grafia oficial, enquanto a suposta tradução em inglês mudou boa parte deles.
-- Outro problema desta versão é que o texto é justificado, o que gera um kerning ruim e atrapalha a leitura.
-Infelizmente não há solução para isso.
+- Outro problema desta versão é que o texto é justificado, o que gera um kerning ruim e atrapalha a leitura. Infelizmente não há solução para isso.
 - Entre a versão Steam e a versão japonesa de Aniversário, recomendo a segunda pois ela permite alterar entre 16:9 e 4:3.
 - Extraindo o conteúdo da versão de Switch, aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
 - Possivelmente por questões de incompetência, algumas poucas linhas do japonês não existem na suposta tradução em inglês. Restaurá-las é impossível na maioria das vezes pois implicaria em adicionar novas linhas no script, mas fazendo isso a compilação quebra.
