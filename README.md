@@ -16,7 +16,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Rota da Kei - 0/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 2/7 capítulos
-- Other Story - 3/5  capítulos
+- Other Story - 5/5  capítulos
 
 # Instalação
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
