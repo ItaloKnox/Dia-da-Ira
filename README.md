@@ -6,7 +6,7 @@ Além de adicionar a tradução, este patch restaura o cursor original do jogo, 
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019.
-Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
+Posteriormente, continuarei a traduzir o restante.
 
 # Progresso
 - Introdução - 1/1 legenda
@@ -15,7 +15,7 @@ Posteriormente, continuarei a traduzir os extras e algumas cenas aleatórias.
 - Rota da Kasumi - 0/7 capítulos
 - Rota da Kei - 0/7 capítulos
 - Rota da Marie - 0/7 capítulos
-- Rota da Rea - 2/7 capítulos
+- Rota da Rea - 3/7 capítulos
 - Other Story - 5/5  capítulos
 
 # Instalação
