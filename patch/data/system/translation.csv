@@ -13,7 +13,7 @@ No. %03d を上書きしますか？,Sobrescrever No. %d?
 タイトルに戻ります。よろしいですか？,Voltar para tela inicial
 シーン鑑賞を中断します。よろしいですか？,Fechar galeria?
 終了します。よろしいですか？,Fechar o jogo?
-ファイル(&F),File(&F)
+ファイル(&F),Arquivo(&F)
 クイックセーブ F9,Save rapido	F9
 クイックロード F10,Carregamento rapido	F10
 クイックセーブデータ(&Q),Save rapido(&Q)
@@ -30,7 +30,7 @@ No. %03d を上書きしますか？,Sobrescrever No. %d?
 スキップ,Pular
 クイックセーブデータの初期化,Resetar save rapido
 オートセーブデータの初期化,Resetar autosave
-ヘルプ(&H),Help(&H)
+ヘルプ(&H),Ajuda(&H)
 バージョン情報(&V)...,Ver. Info(&V)...
 ショートカットキー一覧(&K)... F12,Lista de atalhos(&K)...	F12
 バージョン情報,Ver. Info
