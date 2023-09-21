@@ -53,16 +53,16 @@ Para usá-lo, é necessário compilá-lo com o Visual Studio. Após obter seus .
 O script de Dies Irae, da forma como é extraído pelo StringTool, possuí uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
 Devido a diferença no número de linhas, é mais cômodo o uso do script em inglês como base.
 
-Também por causa dessa limitação do número de linhas, você não pode remover itálicos e sobrescritos (embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém da suposta tradução em inglês.
+Também por causa dessa limitação do número de linhas, você não pode remover itálicos e sobrescritos (embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém do texto.
 O script em inglês possuí um total de 98465 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 
-Extraindo com o Malie_Script_Tool o problema de itálicos e rubys é corrigido, mas como ele apresenta texto duplicado, o ideal é utilizá-lo apenas apos terminar a tradução, para fazer apenas edições.
+Extraindo com o Malie_Script_Tool o problema de itálicos e rubys é corrigido, mas como ele apresenta texto duplicado, o ideal é utilizá-lo apenas após terminar a tradução, para fazer apenas edições.
 
 Para traduzir, é recomendado utilizar o japonês como base, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic - muitas linhas ignorando parte do japonês ou acrescentando frases que simplesmente não existem, repleto de palavrões incondizentes, engrandecimento da narração e uso de expressões e figuras de linguagem que não combinam com a personalidade dos personagens. Inconsistências na alternância de narração de 1º e 3º pessoa e diversas adaptações idiotas, incluindo linhas que parecem terem sido escritas por crianças de 12 anos. Não há preocupação com uma fidelidade 1:1 para com o texto japonês (seja na pontuação ou estrutura das frases); muitas liberdades "artísticas" que não possuem espaço no campo da tradução profissional.
 
 # Observações
 
-- Um problema do jogo0 é que o texto é justificado, o que gera um kerning ruim e atrapalha a leitura. Infelizmente não há solução para isso.
+- Um problema do jogo é que o texto é justificado, o que gera um kerning ruim e atrapalha a leitura. Infelizmente não há solução para isso.
 - Caso queira mudar a fonte do jogo, pegue outra fonte .otf (qualquer fonte, na verdade, basta mudar a extensão para .otf) e coloque na pasta "data/font" renomeando ela com o nome da antic.
 - Entre a versão DX, a versão Steam e a versão japonesa de Aniversário, recomenda-se a primeira, embora a versão japonesa tenha a possibilidade de alterar a resolução entre 16:9 e 4:3. A versão Steam simplesmente não foi testada, mas deve funcionar se a estrutura de arquivos for a mesma.
 - Extraindo o conteúdo da versão de Switch, aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
