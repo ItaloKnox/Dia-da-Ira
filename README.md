@@ -2,7 +2,7 @@
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão inglesa DX package e a versão japonesa em HD -Animation Anniversary-. Possivelmente funcional com a versão Steam (não testado), já a versão japonesa pode não reproduzir algumas vozes (a conferir)
 
-Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original dos capítulos III e VI, nomes oficiais que aparecem entre os capítulos e 4 arquivos de voz faltantes por incompetência da versão inglesa.
+Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original dos capítulos III e VI, nomes oficiais que aparecem entre os capítulos e 5 arquivos de voz faltantes por incompetência da versão inglesa.
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019.
@@ -31,7 +31,7 @@ Posteriormente, continuarei a traduzir o restante.
 - Coloque o arquivo malie.ini na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta "data" que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta "data", substituindo os arquivos já existentes.
 - Na pasta data/picture/event/dead, delete os .dzi e substitua pelos .png.
-- Coloque os quatro arquivos de áudio na pasta equivalente.
+- Coloque os arquivos de áudio na pasta equivalente.
 # Explicação de como o Patch funciona.
 
 Dentro do arquivo .ini estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
@@ -59,6 +59,7 @@ O script em inglês possuí um total de 98465 linhas, enquanto o script japonês
 Extraindo com o Malie_Script_Tool o problema de itálicos e rubys é corrigido, mas como ele apresenta texto duplicado, o ideal é utilizá-lo apenas após terminar a tradução, para fazer apenas edições.
 
 Para traduzir, é recomendado utilizar o japonês como base, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic - muitas linhas ignorando parte do japonês ou acrescentando frases que simplesmente não existem, repleto de palavrões incondizentes, engrandecimento da narração e uso de expressões e figuras de linguagem que não combinam com a personalidade dos personagens. Inconsistências na alternância de narração de 1º e 3º pessoa e diversas adaptações idiotas, incluindo linhas que parecem terem sido escritas por crianças de 12 anos. Não há preocupação com uma fidelidade 1:1 para com o texto japonês (seja na pontuação ou estrutura das frases); muitas liberdades "artísticas" que não possuem espaço no campo da tradução profissional.
+Contudo, embora o japonês deva ser a base, deve-se utilizar o inglês para tradução, uma vez que ele restaurou linhas da versão Acta que foram censuradas no Amantes, logo o script traduzido é mais completo que o script japonês, possuindo textos sem censura e linhas adicionais. Resumindo: trabalhar com ambos lado a lado.
 
 # Observações
 
@@ -66,5 +67,4 @@ Para traduzir, é recomendado utilizar o japonês como base, pois a suposta trad
 - Caso queira mudar a fonte do jogo, pegue outra fonte .otf (qualquer fonte, na verdade, basta mudar a extensão para .otf) e coloque na pasta "data/font" renomeando ela com o nome da antic.
 - Entre a versão DX, a versão Steam e a versão japonesa de Aniversário, recomenda-se a primeira, embora a versão japonesa tenha a possibilidade de alterar a resolução entre 16:9 e 4:3. A versão Steam simplesmente não foi testada, mas deve funcionar se a estrutura de arquivos for a mesma.
 - Extraindo o conteúdo da versão de Switch, aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
-- Possivelmente por questões de incompetência, algumas poucas linhas do japonês não existem na suposta tradução em inglês. Restaurá-las é impossível na maioria das vezes pois implicaria em adicionar novas linhas no script, mas fazendo isso a compilação quebra.
 - Há interesse na versão Acta Est Fabula (+18), embora a estrutura dos arquivos na versão inglesa impossibilite a criação de um patch nos mesmos moldes. É possível para a versão japonesa, já que são dois jogos separados, não uma "DLC" que apenas acrescenta um .exe e um novo .dat com o conteúdo adicional.
