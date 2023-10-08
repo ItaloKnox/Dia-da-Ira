@@ -15,7 +15,7 @@ Posteriormente, continuarei a traduzir o restante.
 - Rota da Kasumi - 1/7 capítulos
 - Rota da Kei - 0/7 capítulos
 - Rota da Marie - 0/7 capítulos
-- Rota da Rea - 5/7 capítulos
+- Rota da Rea - 6/7 capítulos
 - Other Story - 5/5  capítulos
 
 # Instalação
