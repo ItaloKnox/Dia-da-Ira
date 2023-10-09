@@ -54,7 +54,7 @@ O script de Dies Irae, da forma como é extraído pelo StringTool, possuí uma p
 Devido a diferença no número de linhas, é mais cômodo o uso do script em inglês como base.
 
 Também por causa dessa limitação do número de linhas, você não pode remover itálicos e sobrescritos (embora possa ignorar), tampouco pode adicionar novos itálicos ou sobrescritos, fazendo com que seja refém do texto.
-O script em inglês possuí um total de 98465 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
+O script em inglês possuí um total de 98479 linhas, enquanto o script japonês possuí 118965 linhas. Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 
 Extraindo com o Malie_Script_Tool o problema de itálicos e rubys é corrigido, mas como ele apresenta texto duplicado, o ideal é utilizá-lo apenas após terminar a tradução, para fazer apenas edições.
 
