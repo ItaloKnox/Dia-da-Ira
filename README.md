@@ -12,8 +12,8 @@ Posteriormente, continuarei a traduzir o restante.
 - Introdução - 1/1 legenda
 - Prólogo - 1/1 capítulo
 - Rota comum - 6/6 capítulos
-- Rota da Kasumi - 1/7 capítulos
-- Rota da Kei - 0/7 capítulos
+- Rota da Kasumi - 2/7 capítulos
+- Rota da Kei - 1/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 6/7 capítulos
 - Other Story - 5/5  capítulos
@@ -58,7 +58,7 @@ O script em inglês possuí um total de 98479 linhas, enquanto o script japonês
 
 Extraindo com o Malie_Script_Tool o problema de itálicos e rubys é corrigido, mas como ele apresenta texto duplicado, o ideal é utilizá-lo apenas após terminar a tradução, para fazer apenas edições.
 
-Para traduzir, é recomendado utilizar o japonês como base, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic - muitas linhas ignorando parte do japonês ou acrescentando frases que simplesmente não existem, repleto de palavrões incondizentes, engrandecimento da narração e uso de expressões e figuras de linguagem que não combinam com a personalidade dos personagens. Inconsistências na alternância de narração de 1º e 3º pessoa e diversas adaptações idiotas, incluindo linhas que parecem terem sido escritas por crianças de 12 anos. Não há preocupação com uma fidelidade 1:1 para com o texto japonês (seja na pontuação ou estrutura das frases); muitas liberdades "artísticas" que não possuem espaço no campo da tradução profissional.
+Para traduzir, é recomendado utilizar o japonês como base, pois a suposta tradução, em muitos momentos assemelhasse a uma fanfic - muitas linhas ignorando parte do japonês ou acrescentando frases que simplesmente não existem, repleto de palavrões incondizentes, engrandecimento da narração e uso de expressões e figuras de linguagem que não combinam com a personalidade dos personagens. Inconsistências na alternância de narração de 1º e 3º pessoa e diversas adaptações idiotas, incluindo linhas que parecem terem sido escritas por crianças de 12 anos. Não há preocupação com uma fidelidade 1:1 para com o texto japonês (seja na pontuação ou estrutura das frases); muitas liberdades "artísticas" que não possuem espaço no campo da tradução profissional. A princípio, a rota da Kei é a pior de todas.
 Contudo, embora o japonês deva ser a base, deve-se utilizar o inglês para tradução, uma vez que ele restaurou linhas da versão Acta que foram censuradas no Amantes, logo o script traduzido é mais completo que o script japonês, possuindo textos sem censura e linhas adicionais. Resumindo: trabalhar com ambos lado a lado.
 
 # Observações
