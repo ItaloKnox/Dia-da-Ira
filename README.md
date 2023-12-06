@@ -18,6 +18,14 @@ Posteriormente, continuarei a traduzir o restante.
 - Rota da Rea - 6/7 capítulos
 - Other Story - 5/5  capítulos
 
+- A ordem adequada para jogar é também a de lançamento: Kasumi e Kei > Marie e Rea | Final 1 > Final 2 (Intercalando com as Other Story conforme são desbloqueadas)
+- Kasumi e Kei compartilham boa parcela de texto em seus três primeiros capítulos, entretanto o desenrolar é diferente.
+- Marie e Rea compartilham boa parcela de texto em seus dois primeiros capítulos, entretanto o desenrolar é diferente.
+- Uma das Other Story compartilha texto com o final da Rea.
+- Um dos finais da Rea compartilha texto com o outro final.
+
+Resumindo, tem muito texto repetido, mas justificasse dado o conceito do déjà-vu e presciência.
+
 # Instalação
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos "data1.dat" e "data3.dat" na versão DX. Na versão japonesa, apenas o "data1.dat".
