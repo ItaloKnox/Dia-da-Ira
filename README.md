@@ -12,7 +12,7 @@ Posteriormente, continuarei a traduzir o restante.
 - Introdução - 1/1 legenda
 - Prólogo - 1/1 capítulo
 - Rota comum - 6/6 capítulos
-- Rota da Kasumi - 4/7 capítulos
+- Rota da Kasumi - 5/7 capítulos
 - Rota da Kei - 1/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 6/7 capítulos
