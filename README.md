@@ -2,7 +2,7 @@
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~, compatível com a versão inglesa DX package e a versão Steam. Funciona também com a versão japonesa em HD -Animation Anniversary-, entretanto alguns arquivos de áudio nela não existem ou são censurados, uma vez que o script da versão inglesa restaurou linhas originais da versão Acta est Fabual, que por sua vez foram censuradas na versão de console de Amantes Amentes, posteriormente portada para computador.
 
-Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original dos capítulos III e VI, nomes oficiais que aparecem entre os capítulos e 5 arquivos de voz faltantes por incompetência da versão inglesa.
+Além de adicionar a tradução, este patch restaura o cursor original do jogo, a música original de menu e a cor original de texto lido, o título original dos capítulos III e VI, nomes oficiais que aparecem entre os capítulos e 5 arquivos de voz faltantes por incompetência da versão inglesa e 1 arquivo de voz errado.
 Há a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
 Inicialmente, pretendo inserir no script trechos do jogo que traduzi durante os anos de 2017 a 2019.
