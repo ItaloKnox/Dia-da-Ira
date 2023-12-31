@@ -1,7 +1,7 @@
 # Dia-da-Ira
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~. 
-Compatível com a versão inglesa DX package e a versão Steam. Funciona também com a versão japonesa em HD -Animation Anniversary-, embora não recomendada.
+Compatível com a versão inglesa DX package e a versão Steam. Funciona também com a versão japonesa em HD -Animation Anniversary-. Embora a japonesa permita jogar em resolução 16:9 e 4:3, ela não é recomendada devido a ausência de áudios censurados.
 
 Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**, **nomes oficiais** entre capítulos e **arquivos de voz faltantes ou censurados**.
 Existe a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
@@ -22,7 +22,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos ```data1.dat``` e ```data3.dat``` na versão DX. Na versão japonesa, apenas o  ```data1.dat```.
 - Você obterá uma pasta ```data``` com várias subpastas.
-- Delete ```data1.dat``` e ```data3.dat``` se estiver com a versão DX. Delete apenas ```data1.dat``` se estiver com a versão japonesa.
+- Delete ou mova ```data1.dat``` e ```data3.dat``` para outro local caso esteja com a versão Steam/DX. Faça o mesmo com ```data1.dat``` caso esteja com a versão japonesa.
 - Se abrir normalmente, esta etapa foi um sucesso.
 
 (Esse processo é necessário para que não seja preciso literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
