@@ -30,6 +30,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 - Agora baixe o patch disponível [aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/releases) no Github.
 - Coloque o arquivo ```malie.ini``` na pasta raiz do jogo, substituindo o já existente.
 - Pegue o conteúdo da pasta ```data``` que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta ```data```, substituindo os arquivos já existentes.
+- Na pasta ```data/picture/event``` coloque as CGs sem censura, caso queira, deletando os .dzi correspondentes.
 - Na pasta ```data/picture/event/dead```, delete os .dzi e substitua pelos .png.
 - Coloque os arquivos de áudio nas pastas equivalente.
 
@@ -67,7 +68,7 @@ Contudo, a versão inglesa não restaurou 100% dessas linhas.
 
 Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente três linhas (v_ma3009, v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas. Adicionar qualquer linha extra quebra o atual processo de compilação.
 
-A versão inglesa também optou por não restaurar algumas artes sem censura. Neste patch, pretendo restaurá-las. (No momento, a substituição de imagens está apresentando problema de resolução)
+A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**. (Caso não as queira, basta ignorar os arquivos.)
 
 # Observações
 
