@@ -36,8 +36,8 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 # Explicação de como o Patch funciona.
 
 Dentro do arquivo ```.ini``` estão instruções para a restauração da música de menu e cor do texto lido, em conformidade com a versão original japonesa.
-Dentro da pasta "data" estão todos os arquivos dos ```data1.dat``` e ```data3.dat``` que você extraiu. Nela você colocará os arquivos do patch também.
-A decompilação dos data.dat faz-se necessária pois não há como inserir os arquivos da tradução dentro deles nem criar um novo para substituir, por isso seu conteúdo precisa estar aberto. 
+Dentro da pasta ```data``` estão todos os arquivos dos ```data1.dat``` e ```data3.dat``` que você extraiu. Nela você colocará os arquivos do patch também.
+A decompilação dos ```data.dat``` é necessária pois não há como inserir os arquivos da tradução dentro deles nem criar um novo para substituir, por isso seu conteúdo precisa estar aberto. 
 
 
 # Tradução
@@ -49,7 +49,7 @@ Para compilar, utilize novamente o programa StringTool.exe.
 Caso o número de linhas não seja igual, o programa não irá compilar.
 
 Para traduzir as escolhas e nomes na caixa de texto, utilize Malie_Script_Tool, criado por [Crsky](https://github.com/crskycode/Malie_Script_Tool), para converter o script em ```exec.msg.txt``` e ```exec.str.txt```
-Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Uma para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
+Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
 
 O script de Dies Irae, da forma como é extraído pelo StringTool, possuí uma peculiaridade: cada palavra em itálico ou sobrescrita (ruby) obrigatoriamente exige estar separada em uma nova linha. 
 Devido a diferença no número de linhas, não é recomendado para se trabalhar com o script japonês (embora não seja impossível).
@@ -57,18 +57,20 @@ Por causa da limitação do número de linhas, você não pode remover itálicos
 
 Extraindo com o Malie_Script_Tool, o problema de itálicos e rubys é corrigido. No entanto, o programa extrai o texto duplicado (apenas a segunda linha importa). O ideal é utilizá-lo apenas para traduções do japonês ou para fazer edições, adicionando itálicos, rubys e quebras de linha.
 
-A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas "americanizadas", infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.
+A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. **Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
 
 # Censura
 
 Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computar, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo.
 Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
-Contudo, a versão inglesa não restaurou 100% dessas linhas. Tudo o que eu pude restaurar em conformidada ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente três linhas (v_ma3009, v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas. Adicionar qualquer linha extra quebra o atual processo de compilação.
+Contudo, a versão inglesa não restaurou 100% dessas linhas. 
+
+Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente três linhas (v_ma3009, v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas. Adicionar qualquer linha extra quebra o atual processo de compilação.
 
 A versão inglesa também optou por não restaurar algumas artes sem censura. Neste patch, pretendo restaurá-las. (No momento, a substituição de imagens está apresentando problema de resolução)
 
 # Observações
 
-- Caso queira mudar a fonte do jogo, pegue outra fonte .otf (qualquer fonte, na verdade, basta mudar a extensão para .otf) e coloque na pasta "data/font" renomeando ela com o nome da antic.
-- Extraindo o conteúdo da versão de [Switch](https://github.com/masagrator/DiesIraeScenario), aparenta ter um .exe para a criação de novos .dat. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
+- Caso queira mudar a fonte do jogo, pegue outra fonte ```.otf``` (Na verdade, qualquer fonte. Basta mudar a extensão.) e coloque na pasta ```data/font``` renomeando ela com o nome da "antic".
+- Extraindo o conteúdo da versão de [Switch](https://github.com/masagrator/DiesIraeScenario), aparenta ter um .exe para a criação de novos ```dat```. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
 - Há interesse na versão Acta Est Fabula (+18), porém a estrutura da versão Steam/DX impede a criação de um patch.
