@@ -32,7 +32,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas.
 - Pegue o conteúdo da pasta ```data``` que você baixou com o patch e o distribua nas subpastas correspondentes da sua pasta ```data```, substituindo os arquivos já existentes.
 - Na pasta ```data/picture/event``` coloque as CGs sem censura, caso queira, deletando os .dzi correspondentes. Recomenda-se fazer isso sem as miniaturas das imagens, para evitar spoiler.
 - Na pasta ```data/picture/event/dead```, delete os .dzi e substitua pelos .png.
-- Coloque os arquivos de áudio nas pastas equivalentes.
+- Coloque os arquivos de áudio nas pastas equivalentes ```data/voice/er/ke/sy```
 
 # Explicação de como o Patch funciona.
 
