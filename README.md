@@ -11,7 +11,7 @@ Existe a possibilidade de trocar a abertura do jogo pela versão de switch, pega
 - Prólogo - 1/1 capítulo
 - Rota comum - 6/6 capítulos
 - Rota da Kasumi - 7/7 capítulos
-- Rota da Kei - 1/7 capítulos
+- Rota da Kei - 2/7 capítulos
 - Rota da Marie - 0/7 capítulos
 - Rota da Rea - 6/7 capítulos
 - Other Story - 5/5  capítulos
@@ -74,4 +74,5 @@ A versão inglesa também optou por restaurar **apenas algumas** artes sem censu
 
 - Caso queira mudar a fonte do jogo, pegue outra fonte ```.otf``` (Na verdade, qualquer fonte. Basta mudar a extensão.) e coloque na pasta ```data/font``` renomeando ela com o nome da "antic".
 - Extraindo o conteúdo da versão de [Switch](https://github.com/masagrator/DiesIraeScenario), aparenta ter um .exe para a criação de novos ```dat```. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
-- Há interesse na versão Acta Est Fabula (+18), porém a estrutura da versão Steam/DX impede a criação de um patch.
+- Outra maneira de aplicar o patch seria inserindo o script dentro do executável ```malie.exe``` utilizando o Resource Hacker, entretanto o Windows Defender bloqueia o arquivo alegando ser um vírus. Além disso, ainda é necessário extrair o conteúdo do jogo para a substituição de imagens, vídeos e arquivos de áudio.
+- Há interesse na versão Acta Est Fabula (+18), porém a estrutura da versão Steam/DX impede a criação de um patch, uma vez que não é possível aplicar os dois ao mesmo tempo.
