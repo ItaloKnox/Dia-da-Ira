@@ -62,7 +62,7 @@ A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. 
 
 # Censura
 
-Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computar, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo.
+Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo.
 Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
 Contudo, a versão inglesa não restaurou 100% dessas linhas. 
 
