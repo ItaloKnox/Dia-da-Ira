@@ -1,4 +1,4 @@
-# Dia-da-Ira
+# Dies Iræ ~Fantasie Traum von Hexe~
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~. 
 Compatível com a versão inglesa DX package e a versão Steam. Funciona também com a versão japonesa em HD -Animation Anniversary-. Embora a japonesa permita jogar em resolução 16:9 e 4:3, ela não é recomendada devido a ausência de áudios censurados.
