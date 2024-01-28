@@ -27,6 +27,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 - Se abrir normalmente, esta etapa foi um sucesso.
 
 (Esse processo é necessário para que não seja preciso literalmente compartilhar 90% do conteúdo do jogo, em um patch de aproximadamente 8GB e mais de 100 mil arquivos)
+Tecnicamente existe, mas estou enfrentando problemas para substituir as imagens.
 
 - Agora baixe o patch disponível [aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/releases) no Github.
 - Coloque o arquivo ```malie.ini``` na pasta raiz do jogo, substituindo o já existente.
@@ -74,6 +75,5 @@ A versão inglesa também optou por restaurar **apenas algumas** artes sem censu
 # Observações
 
 - Caso queira mudar a fonte do jogo, pegue outra fonte ```.otf``` (Na verdade, qualquer fonte. Basta mudar a extensão.) e coloque na pasta ```data/font``` renomeando ela com o nome da "antic".
-- Extraindo o conteúdo da versão de [Switch](https://github.com/masagrator/DiesIraeScenario), aparenta ter um .exe para a criação de novos ```dat```. Com ele, talvez seja possível criar um só com os arquivos da tradução, evitando ter que extrair as coisas com o GARbro, porém só testarei isso se a tradução foi concluída.
-- Outra maneira de aplicar o patch seria inserindo o script dentro do executável ```malie.exe``` utilizando o Resource Hacker, entretanto o Windows Defender bloqueia o arquivo alegando ser um vírus. Além disso, ainda é necessário extrair o conteúdo do jogo para a substituição de imagens, vídeos e arquivos de áudio.
+- Uma maneira de aplicar o patch seria utilizando o [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie). Ele é capaz de criar um novo data5.dat contendo todos os arquivos necessários ao patch. No entanto, como as imagens que quero inserir estão em .png, o jogo ignora elas e dá preferência aos originais em .dzi. Em outras palavras, compila tudo corretamente, mas o jogo não lê os arquivos corretamente.
 - Há interesse na versão Acta Est Fabula (+18), porém a estrutura da versão Steam/DX impede a criação de um patch, uma vez que não é possível aplicar os dois ao mesmo tempo.
