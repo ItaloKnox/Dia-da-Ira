@@ -1,9 +1,9 @@
 # Dia da Ira
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~. 
-Compatível com a versão inglesa DX package e a versão Steam. Funciona também com a versão japonesa em HD -Animation Anniversary-. Embora a japonesa permita jogar em resolução 16:9 e 4:3, ela não é recomendada devido a ausência de áudios censurados.
+Compatível com a versão inglesa DX package. Possivelmente funcional com a versão Steam e também com a versão japonesa em HD -Animation Anniversary-. Embora a japonesa permita jogar em resolução 16:9 e 4:3, ela não é recomendada devido a ausência de áudios censurados.
 
-Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**, **nomes oficiais** entre capítulos, algumas **CGs sem censura** e  **arquivos de voz faltantes ou censurados**.
+Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**, algumas **CGs sem censura** e  **arquivos de voz faltantes ou censurados**.
 Existe a possibilidade de trocar a abertura do jogo pela versão de switch, pegando o arquivo na pasta vídeo e substituindo.
 
 # Progresso
@@ -19,7 +19,7 @@ Existe a possibilidade de trocar a abertura do jogo pela versão de switch, pega
 
 Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 
-# Instalação
+# Instalação - Patch parcial que será removido futuramente
 - Baixe o programa [GARbro](https://github.com/morkt/GARbro/releases/tag/v1.5.44)
 - Utilize-o para extrair o conteúdo dos arquivos ```data1.dat``` e ```data3.dat``` na versão DX. Na versão japonesa, apenas o  ```data1.dat```.
 - Você obterá uma pasta ```data``` com várias subpastas.
@@ -35,6 +35,13 @@ Tecnicamente existe, mas estou enfrentando problemas para substituir as imagens.
 - Na pasta ```data/picture/event``` coloque as CGs sem censura, caso queira, deletando os .dzi correspondentes. Recomenda-se fazer isso sem as miniaturas das imagens, para evitar spoiler.
 - Na pasta ```data/picture/event/dead```, delete os .dzi e substitua pelos .png.
 - Coloque os arquivos de áudio nas pastas equivalentes ```data/voice/er/ke/sy```
+
+# Instalação Final - futuramente
+
+- Baixe o patch disponível no Github.
+- Extraia o conteúdo e coloque a pasta da ```data```, juntamente dos arquivos ```data.5``` e ```malie.ini``` na pasta raiz do jogo.
+
+Se e o jogo abrir com outro ícone, cursos em forma de espada e vídeo introdutório traduzido, a instalação está concluída.
 
 # Explicação de como o Patch funciona.
 
@@ -62,6 +69,14 @@ Extraindo com o Malie_Script_Tool, o problema de itálicos e rubys é corrigido.
 
 A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas.  **Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
 
+#Compilação
+
+Para compilar todos os arquivos do jogo dentro do ```data5.dat``` é necessário utilizar o programa [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie).
+Basta colocar os arquivos relacionados à tradução dentro de uma pasta ```data``` com as mesmas subpastas que compõem o jogo original, e então rodar o programa em pyhton, selecionando o caminho onde a sua pasta ```data``` está localizada, não a pasta ```data``` em si.
+Para cada jogo que utilize a engine Malie, é necessário o indicar os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma] (https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
+
+Para a substituição das imagens sem censura, é necessário ter os ```.dzi``` e todos os relacionados a elas, localizados na pasta ```text```, caso contrário a resolução é exibida errado. É possível substituir por arquivos ```.png```, mas o processo é mais complicado, uma vez que você precisa editar os nomes de cada arquivo no ```exec.str.txt```, além de que a resolução também é exibida erroneamente. Fazendo dessa forma, o jogo substituí as imagens dentro do jogo, mas não as substitui na galeria.
+
 # Censura
 
 Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo.
@@ -73,7 +88,6 @@ Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, inc
 A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**. (Caso não as queira, basta ignorar os arquivos.)
 
 # Observações
-
+- Infelizmente não é possível corrigir os nomes que aparecem entre os capítulos. Eles foram alterados na versão inglesa e só é possível encontrar os arquivos originais em ```.dzi``` na versão de Nintendo Switch, a qual não consegui extrair todo o conteúdo. Embora seja possível substituir por arquivos ```.png```, é muito trabalhoso e a maneira mais prática envolveria extrair todo o conteúdo do jogo e substituir manualmente. Se você souber como extrair os ```.dat``` do console, entre em contato.
 - Caso queira mudar a fonte do jogo, pegue outra fonte ```.otf``` (Na verdade, qualquer fonte. Basta mudar a extensão.) e coloque na pasta ```data/font``` renomeando ela com o nome da "antic".
-- Uma maneira de aplicar o patch seria utilizando o [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie). Ele é capaz de criar um novo data5.dat contendo todos os arquivos necessários ao patch. No entanto, como as imagens que quero inserir estão em .png, o jogo ignora elas e dá preferência aos originais em .dzi. Em outras palavras, compila tudo corretamente, mas o jogo não lê os arquivos corretamente.
 - Há interesse na versão Acta Est Fabula (+18), porém a estrutura da versão Steam/DX impede a criação de um patch, uma vez que não é possível aplicar os dois ao mesmo tempo.
