@@ -69,7 +69,7 @@ Extraindo com o Malie_Script_Tool, o problema de itálicos e rubys é corrigido.
 
 A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas.  **Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
 
-#Compilação
+# Compilação
 
 Para compilar todos os arquivos do jogo dentro do ```data5.dat``` é necessário utilizar o programa [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie).
 Basta colocar os arquivos relacionados à tradução dentro de uma pasta ```data``` com as mesmas subpastas que compõem o jogo original, e então rodar o programa em pyhton, selecionando o caminho onde a sua pasta ```data``` está localizada, não a pasta ```data``` em si.
