@@ -73,9 +73,9 @@ A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. 
 
 Para compilar todos os arquivos do jogo dentro do ```data5.dat``` é necessário utilizar o programa [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie).
 Basta colocar os arquivos relacionados à tradução dentro de uma pasta ```data``` com as mesmas subpastas que compõem o jogo original, e então rodar o programa em pyhton, selecionando o caminho onde a sua pasta ```data``` está localizada, não a pasta ```data``` em si.
-Para cada jogo que utilize a engine Malie, é necessário o indicar os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma] (https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
+Para cada jogo que utilize a engine Malie, é necessário o indicar os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
 
-Para a substituição das imagens sem censura, é necessário ter os ```.dzi``` e todos os relacionados a elas, localizados na pasta ```text```, caso contrário a resolução é exibida errado. É possível substituir por arquivos ```.png```, mas o processo é mais complicado, uma vez que você precisa editar os nomes de cada arquivo no ```exec.str.txt```, além de que a resolução também é exibida erroneamente. Fazendo dessa forma, o jogo substituí as imagens dentro do jogo, mas não as substitui na galeria.
+Para a substituição das imagens sem censura, é necessário ter os ```.dzi``` e todos os relacionados a elas, localizados na pasta ```tex```, caso contrário a resolução é exibida errado. É possível substituir por arquivos ```.png```, mas o processo é mais complicado, uma vez que você precisa editar os nomes de cada arquivo no ```exec.str.txt```, além de que a resolução também é exibida erroneamente. Fazendo dessa forma, o jogo substituí as imagens dentro do jogo, mas não as substitui na galeria.
 
 # Censura
 
