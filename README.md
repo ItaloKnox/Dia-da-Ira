@@ -41,7 +41,7 @@ Tecnicamente existe, mas estou enfrentando problemas para substituir as imagens.
 - Baixe o patch disponível no Github.
 - Extraia o conteúdo e coloque a pasta da ```data```, juntamente dos arquivos ```data.5``` e ```malie.ini``` na pasta raiz do jogo.
 
-Se e o jogo abrir com outro ícone, cursos em forma de espada e vídeo introdutório traduzido, a instalação está concluída.
+Se e o jogo abrir com outro ícone, cursor em forma de espada e vídeo introdutório traduzido, a instalação está concluída.
 
 # Explicação de como o Patch funciona.
 
