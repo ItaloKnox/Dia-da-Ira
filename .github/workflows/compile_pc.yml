@@ -21,6 +21,7 @@ jobs:
       with:
         python-version: '3.11'
         architecture: 'x64'
+    - run: pip install tqdm
 
     - name: Compile patch (PC)
       run: python dependencies\compile_pc.py
