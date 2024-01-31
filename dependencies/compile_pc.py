@@ -24,7 +24,7 @@ def compile():
     # Define onde está o arquivo data_pack.py e pasta patch, roda o script e move para a pasta de release
     packer_args = "dependencies/dat_pack.py patch"
     run([r'python'] + shlex.split(packer_args))
-    shutil.move("data5.dat", "[KT] Dies Irae ~Fantasie Traum von Hexe~")
+    shutil.move("data5.dat", patch_folder)
     
     # nome do arquivo de destino
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
