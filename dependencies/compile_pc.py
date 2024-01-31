@@ -7,10 +7,13 @@ from sys import exit
 patch_folder = "\"[KT] Dies Irae ~Fantasie Traum von Hexe~\""
 
 def stringtool():
-    run([r'dependencies/StringTool.exe', "exec.txt"])
+    try:
+        run([r'dependencies/StringTool.exe', "exec.txt"])
+    except:
+        print("exec.dat not found?")
 
-    os.rename("exec_New.dat", "exec.dat")
-    shutil.move("exec.dat", "patch/data/system")
+    #os.rename("exec_New.dat", "exec.dat")
+    shutil.move("dependencies/exec_New.dat", "patch/data/system/exec.dat")
 
 def compile():
     # Define onde o arquivo tex para descompressão está, extrai e move para a pasta patch
